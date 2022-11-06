@@ -4,7 +4,7 @@ Full stack developper hosted in France. I'm just as old as this [commit](https:/
 
 * 🌱 I’m currently learning Symfony and Rust
 * 👨‍💻 All of my projects are available on GitHub
-* 🎮 I developing plugins for [Minecraft](https://www.pickaria.fr)!
+* 🎮 I develop plugins for [Minecraft](https://www.pickaria.fr)!
 * 💻 Favorite IDE is the Jetbrains' suite
 
 ## Stats & languages
@@ -17,3 +17,4 @@ Full stack developper hosted in France. I'm just as old as this [commit](https:/
 
 * ⌨️ [100+ wpm on keyboard](https://monkeytype.com/profile/Quozul)
 * 🍙 [Huge anime fan](https://anilist.co/user/Quozul/)
+* 🎥 [I make Beat Saber videos](https://www.youtube.com/@Quozul)
