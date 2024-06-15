@@ -4,7 +4,7 @@ Full stack developper hosted in France. I'm just as old as this [commit](https:/
 
 * 🌱 I’m currently learning machine learning and Rust
 * 👨‍💻 All of my projects are available on GitHub
-* 🎮 I develop plugins for [Minecraft](https://www.pickaria.fr)!
+* 🎮 I develop plugins for my [Minecraft server](https://www.pickaria.fr)!
 * 💻 Favorite IDE is the Jetbrains' suite
 
 ## Some random facts
